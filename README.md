@@ -1,4 +1,4 @@
-<h1 align="center"> Lista de Repositórios </h1>
+<h1 align="center"> CV </h1>
 
 <p align="center">🔍 Navegação dentro do Readme. </p>
 
@@ -16,7 +16,7 @@
 <div align="left">
   <h1 id="sobre-o-projeto"> ✅ Sobre o projeto </h1>
   <p>
-    Construir um App para fixação de conhecimentos de ReactJS e TypeScript.
+    Construção do meu CV utilizando tailwind e testando algumas implementações lendo a documentação do framework.
   </p>
 </div>
 
@@ -29,15 +29,15 @@ ___
   <div>
     <p>
       ➡
-      <a href="https://nodejs.org/en/"> NodeJS</a>
+      <a href="">HTML5</a>
     </p>
     <p>
       ➡
-      <a href="https://www.typescriptlang.org"> Typescript</a>
+      <a href="">CSS3</a>
     </p>
     <p>
       ➡
-      <a href="https://insomnia.rest"> Insominia</a>
+      <a href="https://tailwindcss.com/"> Tailwind</a>
     </p>
     <p>
       ➡
@@ -57,7 +57,7 @@ ___
   <p>➡ Ao instalar tudo necessário, abra uma pasta em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
   <p> 
 
-    git clone https://github.com/Lightsd7/Repositories-React
+    git clone https://github.com/Lightsd7/CV-with-Tailwind
   </p>
   <p>➡ Para ver os comandos disponíveis e dependências instaladas, vá no arquivo package.json. Por fim, para iniciar o servidor, vá em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
   <p>
