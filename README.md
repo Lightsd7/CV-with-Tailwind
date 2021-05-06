@@ -18,6 +18,9 @@
   <p>
     Construção do meu CV utilizando tailwind e testando algumas implementações lendo a documentação do framework.
   </p>
+  <p>
+    Link do projeto: https://lightsd7.github.io/CV-with-Tailwind/
+  </p>
 </div>
 
 </br>
